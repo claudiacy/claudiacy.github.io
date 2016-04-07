@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://claudiacy.github.io/claudiacy.io/sitemap.xml 
